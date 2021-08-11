@@ -1,9 +1,8 @@
-## ![GIT_A](https://user-images.githubusercontent.com/37752868/128958162-4bd394d7-3f43-497d-a4a6-278dc6f42361.jpg)
+### Hi there, I'm Guilherme! 👋
 
  <div align="center" >
   <a href="https://github.com/Drenovaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drenovaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drenovaa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
